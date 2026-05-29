@@ -1,0 +1,15 @@
+{
+  "name": "Rectutils",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Packages": {
+        "$className": "Folder",
+        "Rectutils": {
+          "$path": "src"
+        }
+      }
+    }
+  }
+}
